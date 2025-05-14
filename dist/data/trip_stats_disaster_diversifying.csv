@@ -1,0 +1,7 @@
+Info,Fastest - div:1,Shortest - div:1,Polaris - div:1,Fastest - div:3,Shortest - div:3,Polaris - div:3
+Number of cars,43837.0,43837.0,43334.0,45441.0,45441.0,43334.0
+Total time traveled [h],95922.0,136377.0,120508.0,77522.0,121077.0,120629.0
+Total distance traveled [km],172392.0,163176.0,146694.0,233822.0,214523.0,146694.0
+Avg. speed [km/h],1.8,1.2,1.22,3.02,1.77,1.22
+Avg. distance per trip [km],3.93,3.72,3.39,5.15,4.72,3.39
+Avg. traveltime per trip [minutes],131.29,186.66,166.85,102.36,159.87,167.02
